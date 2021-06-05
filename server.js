@@ -17,7 +17,7 @@ app.use(express.json());
 app.use(express.static("public"));
 
 //connects to mongo DB and creates mongo object from imports above
-mongoose.connect(process.envMONGODB_URI || "mongodb://localhost/workout", {
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   useCreateIndex: true,
