@@ -2,14 +2,14 @@
 
 # Description 
 
-### Deployed App
+### [Deployed App](https://evening-falls-85737.herokuapp.com/)
 This workout tracker is built to help a user meet their fitness goals by tracking their workouts. 
 Users can add exercises to a workout and save the workout when complete. 
 The stats are are under construction at the momnet. the intention is that the stats are aggregated to shows a week's worth workout showing duration, the weeks accumulated weight lifted, and wheather of not the workout was cadio or resistance.
 
 The application uses many different technologies on the front and back end. On the back end is an Express server deployed on Heroku and a Mongo database with Mongoose models hosted on Mongo DB Atlas cloud storage. The front end, developed by Trilogy developers, uses Semantic UI and Chart.js on top of the HTML/CSS/JS to make a clean and simple UI.
 
-### add screen shot
+### ![public/assets/ScreenShot.png](public/assets/ScreenShot.png)
 
 # Table of Contents
 * [Description](#Description)
@@ -39,12 +39,7 @@ Nothing to add
 #### Visit my GitHub: [github](https://github.com/adams1971)
 #### My email: adamscdcm@gmail.com
 #### Linkedin: https://www.linkedin.com/in/adam-stevenson-sea/
-
-
-# ------------------------------------
-
-
-
+#
 Submit the following for grading:
 
 * The URL to the deployed application
